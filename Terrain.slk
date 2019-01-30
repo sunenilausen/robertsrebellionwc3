@@ -64,7 +64,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K6
 C;X12;K"Frok,Wrok,Bflr,Arck,Crck,Nrck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -148,7 +148,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K6
 C;X12;K"Lrok,Wrok,Bflr,Arck,Crck,Nrck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -232,7 +232,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K6
 C;X12;K"Lrok,Frok,Bflr,Arck,Crck,Nrck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -358,7 +358,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K7
 C;X12;K"Lrok,Frok,Wrok,Arck,Crck,Nrck,Ywmb,Vrck,Qrck,Xwmb,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -428,7 +428,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K5
 C;X12;K"Lrok,Frok,Wrok,Bflr,Crck,Nrck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -540,7 +540,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K5
 C;X12;K"Lrok,Frok,Wrok,Bflr,Arck,Nrck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -624,7 +624,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K6
 C;X12;K"Lrok,Frok,Wrok,Bflr,Arck,Crck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Zbkl,Irbk,Ofst"
@@ -1240,7 +1240,7 @@ C;X5;K"Dark Rock"
 C;X6;K"WESTRING_TILE_DARK_ROCK"
 C;X7;K0
 C;X8;K1
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K4
 C;X12;K"Lrok,Frok,Wrok,Bflr,Arck,Crck,Nrck,Ybtl,Vrck,Xbtl,Qrck,Gdkr,Zbkl,Ibsq,Olgb"
@@ -1352,7 +1352,7 @@ C;X5;K"Dark Rock"
 C;X6;K"WESTRING_TILE_DARK_ROCK"
 C;X7;K0
 C;X8;K1
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K4
 C;X12;K"Lrok,Frok,Wrok,Bflr,Arck,Crck,Nrck,Ybtl,Vrck,Xbtl,Qrck,Ddkr,Zbkl,Ibsq,Olgb"
@@ -1716,7 +1716,7 @@ C;X5;K"Rock"
 C;X6;K"WESTRING_TILE_ROCK"
 C;X7;K0
 C;X8;K0
-C;X9;K1
+C;X9;K0
 C;X10;K1
 C;X11;K7
 C;X12;K"Lrok,Frok,Wrok,Bflr,Arck,Nrck,Ybtl,Vrck,Qrck,Xbtl,Ddkr,Gdkr,Crck,Zbkl,Irbk,Krck"
