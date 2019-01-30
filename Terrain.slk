@@ -34,7 +34,7 @@ C;X3;K"TerrainArt\LordaeronSummer"
 C;X4;K"Lords_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -118,7 +118,7 @@ C;X3;K"TerrainArt\LordaeronFall"
 C;X4;K"Lordf_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -202,7 +202,7 @@ C;X3;K"TerrainArt\LordaeronWinter"
 C;X4;K"Lordw_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -286,7 +286,7 @@ C;X3;K"TerrainArt\Barrens"
 C;X4;K"Barrens_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K0
 C;X9;K1
 C;X10;K1
@@ -398,7 +398,7 @@ C;X3;K"TerrainArt\Ashenvale"
 C;X4;K"Ashen_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -510,7 +510,7 @@ C;X3;K"TerrainArt\Felwood"
 C;X4;K"Felwood_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -706,7 +706,7 @@ C;X3;K"TerrainArt\Cityscape"
 C;X4;K"City_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -832,7 +832,7 @@ C;X3;K"TerrainArt\Village"
 C;X4;K"Village_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -944,7 +944,7 @@ C;X3;K"TerrainArt\VillageFall"
 C;X4;K"VillageFall_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -1056,7 +1056,7 @@ C;X3;K"TerrainArt\Dalaran"
 C;X4;K"Dalaran_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -1406,7 +1406,7 @@ C;X3;K"TerrainArt\Ruins"
 C;X4;K"Ruins_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -1532,7 +1532,7 @@ C;X3;K"TerrainArt\Icecrown"
 C;X4;K"Ice_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -1672,7 +1672,7 @@ C;X3;K"TerrainArt\Outland"
 C;X4;K"Outland_RoughDirt"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -1784,7 +1784,7 @@ C;X3;K"TerrainArt\BlackCitadel"
 C;X4;K"Citadel_RoughDirt"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -1882,7 +1882,7 @@ C;X3;K"TerrainArt\DalaranRuins"
 C;X4;K"DRuins_DirtRough"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
@@ -2372,7 +2372,7 @@ C;X3;K"TerrainArt\Outland"
 C;X4;K"Outland_RoughDirt"
 C;X5;K"Rough Dirt"
 C;X6;K"WESTRING_TILE_ROUGH_DIRT"
-C;X7;K1
+C;X7;K0
 C;X8;K1
 C;X9;K1
 C;X10;K1
