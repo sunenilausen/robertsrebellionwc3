@@ -14,5 +14,7 @@ Use the compressed and protected version called RobertsRebellionVX.XX.w3x and st
 ## Discuss
 Go to 
 https://discord.gg/8qcretT
+or 
 https://www.hiveworkshop.com/threads/roberts-rebellion.262230/
+or 
 https://tradewinds.io/viewforum.php?f=13
