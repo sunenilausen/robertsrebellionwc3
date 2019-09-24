@@ -2,7 +2,13 @@
 A Warcraft III Custom Map about ASOIAF (Game of Thrones) event called Roberts Rebellion
 
 ## Map Editor
-To get proper tile pathability use this guide http://brigandshaven.net/threads/tutorial-modifying-terrain-pathability-no-extra-programs-needed.4745/ and the terrain slk in the repo so that:
+To get proper tile pathability do the following:
+1. Go to RegEdit -> Computer\HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III
+2. Create a DWORD Value "Allow Local Files" and set the value to 1
+3. Create a "TerrainArt" folder in War3 install folder, and copy paste terrain.slk there
+4. Launch WorldEdit and open the map
+5. Save the map
+
 Village Fall, Lordaeron Winter and Barrens Rock Should NOT be Buildable or Walkable. Village Cobble path should not be Buildable.
 
 ## Download
