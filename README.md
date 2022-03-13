@@ -2,21 +2,25 @@
 A Warcraft III Custom Map about ASOIAF (Game of Thrones) event called Roberts Rebellion
 
 ## Map Editor
-1. Get Warcraft 1.27x or less.
-2. Download newgen jass 5d at http://www.wc3c.net/showthread.php?t=90999
-3. Unpack.
-4. Open findpath.lua with your favorite editor.
-5. Add the following but with the path to your WC3 1.27 or less install folder.
-`path = "C:\\Warcraft III"`
-5. Start as admin.
-6. Enable UMSWE.
-7. Restart editor.
-8. Open the newest raw version. Name should be bobrebelGOTXXX.w3x
-9. In tile pathability Village Fall, Lordaeron Winter and Barrens Rock Should NOT be Buildable or Walkable. Village Cobble path should NOT be Buildable.
-10. Done!
+To get proper tile pathability do the following:
+1. Go to RegEdit -> Computer\HKEY_CURRENT_USER\Software\Blizzard Entertainment\Warcraft III
+2. Create a DWORD Value "Allow Local Files" and set the value to 1
+3. Create a "TerrainArt" folder in War3 install folder, and copy paste terrain.slk there
+4. Launch WorldEdit and open the map
+5. Save the map
 
-I have some issues with the map editor currently but it has worked in the past
+Village Fall, Lordaeron Winter and Barrens Rock Should NOT be Buildable or Walkable. Village Cobble path should not be Buildable.
+
+## Download
+Download a version here or check https://www.hiveworkshop.com/threads/roberts-rebellion.262230/ if there is a newer version
 
 ## Play
-Use the compressed and protected version called RobertsRebellionVX.XX.w3x or...
-Find it and play at makemehost.com or entgaming.net
+Use the compressed and protected version called RobertsRebellionVX.XX.w3x and start up your wc3 and host a game. Someone might already have hosted!
+
+## Discuss
+Go to 
+https://discord.gg/8qcretT
+or 
+https://www.hiveworkshop.com/threads/roberts-rebellion.262230/
+or 
+https://tradewinds.io/viewforum.php?f=13
