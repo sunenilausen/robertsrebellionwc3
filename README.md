@@ -11,6 +11,8 @@ To get proper tile pathability do the following:
 
 Village Fall, Lordaeron Winter and Barrens Rock Should NOT be Buildable or Walkable. Village Cobble path should not be Buildable.
 
+To optimize the game, compress it with https://www.hiveworkshop.com/threads/map-optimizer-5-0.216420/
+
 ## Download
 Download a version here or check https://www.hiveworkshop.com/threads/roberts-rebellion.262230/ if there is a newer version
 
@@ -18,9 +20,9 @@ Download a version here or check https://www.hiveworkshop.com/threads/roberts-re
 Use the compressed and protected version called RobertsRebellionVX.XX.w3x and start up your wc3 and host a game. Someone might already have hosted!
 
 ## Discuss
-Go to 
+Go to
 https://discord.gg/8qcretT
-or 
+or
 https://www.hiveworkshop.com/threads/roberts-rebellion.262230/
-or 
+or
 https://tradewinds.io/viewforum.php?f=13
